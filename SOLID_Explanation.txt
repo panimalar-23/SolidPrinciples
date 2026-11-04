@@ -1,0 +1,23 @@
+SOLID PRINCIPLES – PRODUCT INVENTORY SYSTEM
+
+1. Single Responsibility Principle (SRP)
+Each class has one responsibility:
+- Product: Stores product details.
+- ProductRepository: Manages product storage.
+- ProductService: Handles business logic and validation.
+- Program.cs: Handles user input and output.
+
+2. Open/Closed Principle (OCP)
+The application can support new storage methods, such as database or file storage, by implementing IProductRepository without modifying ProductService.
+
+3. Liskov Substitution Principle (LSP)
+Any implementation of IProductRepository can replace ProductRepository, provided it follows the same Add and GetAll behavior.
+
+4. Interface Segregation Principle (ISP)
+Separate, focused interfaces (IProductRepository and IProductService) prevent classes from depending on unrelated operations.
+
+5. Dependency Inversion Principle (DIP)
+ProductService depends on the IProductRepository abstraction rather than directly depending on the ProductRepository class.
+
+CONCLUSION
+The application is refactored using SOLID principles to improve maintainability, flexibility, reusability, and testability.

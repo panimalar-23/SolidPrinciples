@@ -1,0 +1,14 @@
+C:\Users\panim\Desktop\hcl\Assignment\SolidInventoryApp\bin\Debug\net10.0\SolidInventoryApp.exe
+C:\Users\panim\Desktop\hcl\Assignment\SolidInventoryApp\bin\Debug\net10.0\SolidInventoryApp.deps.json
+C:\Users\panim\Desktop\hcl\Assignment\SolidInventoryApp\bin\Debug\net10.0\SolidInventoryApp.runtimeconfig.json
+C:\Users\panim\Desktop\hcl\Assignment\SolidInventoryApp\bin\Debug\net10.0\SolidInventoryApp.dll
+C:\Users\panim\Desktop\hcl\Assignment\SolidInventoryApp\bin\Debug\net10.0\SolidInventoryApp.pdb
+C:\Users\panim\Desktop\hcl\Assignment\SolidInventoryApp\obj\Debug\net10.0\SolidInventoryApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panim\Desktop\hcl\Assignment\SolidInventoryApp\obj\Debug\net10.0\SolidInventoryApp.AssemblyInfoInputs.cache
+C:\Users\panim\Desktop\hcl\Assignment\SolidInventoryApp\obj\Debug\net10.0\SolidInventoryApp.AssemblyInfo.cs
+C:\Users\panim\Desktop\hcl\Assignment\SolidInventoryApp\obj\Debug\net10.0\SolidInventoryApp.csproj.CoreCompileInputs.cache
+C:\Users\panim\Desktop\hcl\Assignment\SolidInventoryApp\obj\Debug\net10.0\SolidInventoryApp.dll
+C:\Users\panim\Desktop\hcl\Assignment\SolidInventoryApp\obj\Debug\net10.0\refint\SolidInventoryApp.dll
+C:\Users\panim\Desktop\hcl\Assignment\SolidInventoryApp\obj\Debug\net10.0\SolidInventoryApp.pdb
+C:\Users\panim\Desktop\hcl\Assignment\SolidInventoryApp\obj\Debug\net10.0\SolidInventoryApp.genruntimeconfig.cache
+C:\Users\panim\Desktop\hcl\Assignment\SolidInventoryApp\obj\Debug\net10.0\ref\SolidInventoryApp.dll
